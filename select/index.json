@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "チチンプイプイ / flower",
+  "base_artist": "真島ゆろ",
+  "createdAt": "2025-12-31T11:31:19.055060Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チチンプイプイ",
+      "artist": "真島ゆろ",
+      "has_synced": false,
+      "path": "select/pl_01_チチンプイプイ_真島ゆろ.txt"
+    }
+  ]
+}
